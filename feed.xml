@@ -3,7 +3,7 @@
     <title>Test_Publii</title>
     <link href="https://simon-scmp.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://simon-scmp.github.io/publii-test" />
-    <updated>2022-03-02T16:38:49+00:00</updated>
+    <updated>2022-03-02T20:54:26+00:00</updated>
     <author>
         <name>SCC</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://simon-scmp.github.io/publii-test/scmp-test-md-version.html"/>
         <id>https://simon-scmp.github.io/publii-test/scmp-test-md-version.html</id>
 
-        <updated>2022-03-02T16:38:49+00:00</updated>
+        <updated>2022-03-02T20:54:26+00:00</updated>
             <summary>
                 <![CDATA[
                     This is a test site for me using Publii Hopefully published on Github and served off Cloudflare Pages It has been a tedious move having looked at most of the Jamstack pile and beyond. Grav was going to be my tool of choice, it works&hellip;
