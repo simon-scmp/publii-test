@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test_Publii",
+    "description": "",
+    "home_page_url": "https://simon-scmp.github.io/publii-test",
+    "feed_url": "https://simon-scmp.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SCC"
+    },
+    "items": [
+        {
+            "id": "https://simon-scmp.github.io/publii-test/scmp-test-md-version.html",
+            "url": "https://simon-scmp.github.io/publii-test/scmp-test-md-version.html",
+            "title": "SCMP Test MD version",
+            "summary": "This is a test site for me using Publii Hopefully published on Github and served off Cloudflare Pages It has been a tedious move having looked at most of the Jamstack pile and beyond. Grav was going to be my tool of choice, it works&hellip;",
+            "content_html": "<p>This is a test site for me using <a href=\"https://getpublii.com\"><strong>Publii</strong></a></p>\n<p>Hopefully published on <a href=\"https://github.com\"><strong>Github</strong></a> and served off <a href=\"https://developers.cloudflare.com/pages/\"><strong>Cloudflare Pages</strong></a></p>\n<p>It has been a tedious move having looked at most of the <a href=\"https://jamstack.org\"><strong>Jamstack</strong></a> pile and beyond. <a href=\"https://getgrav.org\"><strong>Grav</strong></a> was going to be my tool of choice, it works well and offers a lot, but it does need PHP, runs off the server and feels, perhaps not quite of it’s time any more? When Static seems to be the way to go for simple sites. I started with static, writing html then progressing through <em>GoLive, Freeway, Dreamweaver</em>. Feels like it’s come full circle but different.</p>\n<p>For historical reasons <a href=\"https://plone.org\"><strong>Plone</strong></a> was in there as well I’ve been using Plone for years and whilst it has quirks it is stable, solid and works well.</p>\n<p>The others which came close were <a href=\"https://jekyllrb.com\"><strong>Jekyll</strong></a> the <a href=\"https://www.ruby-lang.org/en/\"><strong>Ruby</strong></a> static site generator tightly integrated with GitHub, it runs GH Pages I’ve used this before and it works well.</p>\n<p>I’m just starting to learn the frustrations and quirks of using Publii’s desktop editor. It’s near impossible to actually get it to save and publish to the path on an external drive which I set, always defaulting to the internal user directory on my Mac. It’s not easy to swap in and out of the three types of editor, WYSIWG, Blocks and Markdown. I tend to prefer to write in <a href=\"https://ia.net/writer\"><strong>iA Writer</strong></a> and copy/paste across the MD so for default in Publii I’ve set to the Markdown editor. Because Publii isn’t allowing me to save in the cloud moving between machines and carrying on working isn’t going to be easy. I rely on being able to start on one device then carry on with a different one and just pick up.  I started in the WYSIWG but not sure. Most of the grunt normally is done in the excellent <a href=\"https://www.barebones.com/products/bbedit/index.html\"><strong>BBEdit</strong></a> which seems to have been on the Mac longer than the Mac. It’s the most dependable, might not be the trendiest but is still the best if you have a lot of all sorts of text based projects to handle. I’m not just talking programming and coding here there is more to text than code and caffeine.</p>\n",
+            "author": {
+                "name": "SCC"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-02T15:39:22+00:00",
+            "date_modified": "2022-03-02T16:38:49+00:00"
+        }
+    ]
+}
